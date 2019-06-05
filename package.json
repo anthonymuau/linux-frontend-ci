@@ -1,0 +1,25 @@
+{
+  "name": "linux-frontend-ci",
+  "version": "0.1.0",
+  "description": "Linux for frontend development and ci",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test sßecified\" && exit 1",
+    "build": "docker build -t anf86/linux-frontend-ci ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonymuau/linux-frontend-ci.git"
+  },
+  "keywords": [
+    "linux",
+    "docker",
+    "frontend"
+  ],
+  "author": "Anthony Muscat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthonymuau/linux-frontend-ci/issues"
+  },
+  "homepage": "https://github.com/anthonymuau/linux-frontend-ci#readme"
+}
